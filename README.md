@@ -3,7 +3,9 @@
 此項目為Kaggle貓與狗的分類競賽, Training dataset一共有25000張的照片(貓跟狗各有12500張), Test dataset共有11000張照片。
 這個github中以Google Colab的 GPU 進行操作，並展現了各種pre-trained模型的實驗結果(Alexnet, VGG11, Resnet18, Resnet50, Resnet152)。
 從下列圖片可以看出，Resnet表現得最好，若將Resnet50與152比，Resnet152表現得更好，accuracy約高0.01。
-但是因為Resnet152的深度更深，在使用GPU下，所需要的訓練時間為33.39分鐘，相較於Resnet50的27.79分鐘，所需時間更長。
+但是因為Resnet152的深度更深，在使用GPU下，所需要的訓練時間為33.39分鐘，相較於Resnet50的27.79分鐘，所需時間更長。  
+
+Resnet50 v.s. Resnet152:
 
 ![image](https://github.com/chunhan-c/Kaggle-Dogs-vs.-Cats/blob/master/resnet50_v.s_resnet152.png)
 ![image](https://github.com/chunhan-c/Kaggle-Dogs-vs.-Cats/blob/master/resnet50_5e.png)
