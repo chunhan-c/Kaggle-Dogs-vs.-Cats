@@ -30,8 +30,7 @@ Resnet152(5 epochs):
 以下為其他pre-trained模型之表現(Training loss, validation loss, accuracy ,平均accuracy(紅色虛線), 所訓練時間):
 
 Alexnet(7 epochs):
-<div align=center><img width="300" height="300" src="https://github.com/chunhan-c/Kaggle-Dogs-vs.-Cats/blob/master/alexnet_7_epoch.png"/></div>
-![image](https://github.com/chunhan-c/Kaggle-Dogs-vs.-Cats/blob/master/alexnet_7_epoch.png)
+<div align=center><img width="900" height="900" src="https://github.com/chunhan-c/Kaggle-Dogs-vs.-Cats/blob/master/alexnet_7_epoch.png"/></div>
 
 VGG11(5 epochs):
 ![image](https://github.com/chunhan-c/Kaggle-Dogs-vs.-Cats/blob/master/vgg11_5_epoch.png)
