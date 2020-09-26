@@ -5,8 +5,8 @@
 從下列圖片可以看出，Resnet表現得最好，若將Resnet50與152比，Resnet152表現得更好，accuracy約高0.01。
 但是因為Resnet152的深度更深，在使用GPU下，所需要的訓練時間為33.39分鐘，相較於Resnet50的27.79分鐘，所需時間更長。  
 
-<div align=center><img width="150" height="150" src="https://github.com/chunhan-c/Kaggle-Dogs-vs.-Cats/blob/master/resnet50_v.s_resnet152.png"/></div> 
-#![image](https://github.com/chunhan-c/Kaggle-Dogs-vs.-Cats/blob/master/resnet50_v.s_resnet152.png)
+<div align=center><img src="https://github.com/chunhan-c/Kaggle-Dogs-vs.-Cats/blob/master/resnet50_v.s_resnet152.png" alt="Resnet50 v.s. Resnet152"/></div> 
+
 
 
 由於此比賽Kaggle已取消了提交功能，為了評估模型的表現，我將Test dataset的前1500張照片手動分類，並使用在Training期間表現最好之pre-trained模型Resnet152(以訓練時間和accuracy作為依據)進行分類。
