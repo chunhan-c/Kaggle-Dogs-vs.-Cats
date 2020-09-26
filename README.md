@@ -1,4 +1,4 @@
-# Kaggle-Dogs-vs.-Cats
+# Kaggle-Dogs-vs.-Cats (Pytorch)
 
 此項目為Kaggle貓與狗的分類競賽, Training dataset一共有25000張的照片(貓跟狗各有12500張), Test dataset共有11000張照片。
 這個github中以Google Colab的 GPU 進行操作，並展現了各種pre-trained模型的實驗結果(Alexnet, VGG11, Resnet18, Resnet50, Resnet152)。
