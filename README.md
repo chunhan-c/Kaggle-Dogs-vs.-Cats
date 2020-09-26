@@ -15,10 +15,12 @@
 以下為所有pre-trained 模型中表現前二名，Resnet50 以及 Resnet152:
 
 Resnet50(5 epochs):  
-![image](https://github.com/chunhan-c/Kaggle-Dogs-vs.-Cats/blob/master/resnet50_5e.png)
+<div align=center><img src="https://github.com/chunhan-c/Kaggle-Dogs-vs.-Cats/blob/master/resnet50_5e.png"/></div> 
+
 
 Resnet152(5 epochs):  
-![image](https://github.com/chunhan-c/Kaggle-Dogs-vs.-Cats/blob/master/resnet152_5e.png)
+<div align=center><img src="https://github.com/chunhan-c/Kaggle-Dogs-vs.-Cats/blob/master/resnet152_5e.png"/></div> 
+
 
 
 
