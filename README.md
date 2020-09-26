@@ -6,7 +6,6 @@
 但是因為Resnet152的深度更深，在使用GPU下，所需要的訓練時間為33.39分鐘，相較於Resnet50的27.79分鐘，所需時間更長。  
 
 Resnet50 v.s. Resnet152:
-:
 ![image](https://github.com/chunhan-c/Kaggle-Dogs-vs.-Cats/blob/master/resnet50_v.s_resnet152.png)
 
 
