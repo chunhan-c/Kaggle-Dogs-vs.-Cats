@@ -9,7 +9,8 @@
 
 
 
-由於此比賽Kaggle已取消了提交功能，為了評估模型的表現，我將Test dataset的前1500張照片手動分類，並使用在Training期間表現最好之pre-trained模型Resnet152(以訓練時間和accuracy作為依據)進行分類。
+由於此比賽Kaggle已取消了提交功能，為了評估模型的表現，我將Test dataset的前1500張照片手動分類，並使用在Training期間表現最好之pre-trained模型Resnet152(以訓練時間和accuracy作為依據)進行分類，得到 0.9813 accuracy。
+
 
 
 以下為所有pre-trained 模型中表現前二名，Resnet50 以及 Resnet152:
