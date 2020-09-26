@@ -19,9 +19,7 @@ Resnet50(5 epochs):
 
 
 Resnet152(5 epochs):  
-<div align=center><img src="https://github.com/chunhan-c/Kaggle-Dogs-vs.-Cats/blob/master/resnet152_5e.png"/></div> 
-
-
+<div align=center><img src="https://github.com/chunhan-c/Kaggle-Dogs-vs.-Cats/blob/master/resnet152_5e.png"/></div>  
 
 
 
